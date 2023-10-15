@@ -2,6 +2,7 @@
 >🚨 [PLEASE SUBSCRIBE OUR CHANNEL CLOUDHUSTLER](https://www.youtube.com/@cloudhustlers) **&** [JOIN OUR WHATSAPP COMMUNITY](https://chat.whatsapp.com/FilXyp4eva599SND76fNUP)
 ## Run in Cloudshell
 ```cmd
+gcloud auth list
 git clone https://github.com/GoogleCloudPlatform/training-data-analyst
 cd ~/training-data-analyst/courses/developingapps/python/cloudstorage/start
 . prepare_environment.sh
